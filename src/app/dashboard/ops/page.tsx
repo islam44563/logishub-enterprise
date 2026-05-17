@@ -153,7 +153,7 @@ export default function OperationsRoomPage() {
           </div>
           <div>
             <span className="text-xs text-muted block uppercase tracking-wider">{t.success}</span>
-            <span className="text-2xl font-black text-success">{stats.success}</span>
+            <span className="text-2xl font-black text-success">{stats.successRate}</span>
           </div>
         </div>
 
