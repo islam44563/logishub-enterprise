@@ -17,6 +17,6 @@ body {
 /* Glassmorphism utility helpers */
 .glass-panel {
   background: rgba(255, 255, 255, 0.02);
-  border: 1px border-white/10;
+  border: 1px solid rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(12px);
 }
